@@ -1,2 +1,2 @@
 # google-homepage
-A project suggested by The Odin Project focused on the visual construction of a duplicate of Google's search page.
+A project suggested by The Odin Project that focuses on duplicating the visual aspects of Google's search page.
